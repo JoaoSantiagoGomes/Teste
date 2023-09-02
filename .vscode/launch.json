@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NumeroPrimo",
+            "request": "launch",
+            "mainClass": "NumeroPrimo",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "FuncoesStrings",
+            "request": "launch",
+            "mainClass": "FuncoesStrings",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "aula",
+            "request": "launch",
+            "mainClass": "aula",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "Autenticação",
+            "request": "launch",
+            "mainClass": "Autenticação",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "exe",
+            "request": "launch",
+            "mainClass": "exe",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraAreas",
+            "request": "launch",
+            "mainClass": "CalculadoraAreas",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo",
+            "request": "launch",
+            "mainClass": "Exemplo",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "CalculoArea",
+            "request": "launch",
+            "mainClass": "CalculoArea",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "Exercicios",
+            "request": "launch",
+            "mainClass": "Exercicios",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "Novo",
+            "request": "launch",
+            "mainClass": "Novo",
+            "projectName": "Teste_3cda802c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Prints_Tela",
+            "request": "launch",
+            "mainClass": "Prints_Tela",
+            "projectName": "Teste_3cda802c"
+        }
+    ]
+}
